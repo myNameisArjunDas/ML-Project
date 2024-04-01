@@ -1,1 +1,1 @@
-
+Using classification models, the project evaluates employee data to predict employee turnover. The initiative aims to provide predictive insights to enterprises so they can optimize workforce management tactics, lower attrition, and create a more stable and productive work environment
